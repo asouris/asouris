@@ -1,2 +1,2 @@
-### <img width="24px" src="./duck.gif">
+### <img width="35px" src="./duck.gif">
 
